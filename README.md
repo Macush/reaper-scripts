@@ -1,23 +1,37 @@
-# reaper-scripts
-[Mod] Folder Item
-# reaper-scripts
+# CUSH Folder Items
 
-A collection of useful scripts for REAPER.
+REAPER 7+ script that creates visual folder items based on the audio content inside folder tracks.
 
-## Folder Items Cush
-Automatically duplicates edits (cut, drag, copy) from a folder audio track down to all its child tracks. This behavior can be toggled on or off.
+### Features
 
-* Requirements: REAPER 7+ and ReaPack.
+* Automatic folder item creation and synchronization
+* Uses folder track colors
+* Darkens child item colors
+* Selecting a folder item selects its child items
+* Automatically updates when the project changes
 
----
+### Installation
 
-## Installation via ReaPack
+Install via ReaPack:
 
-1. Copy this repository URL:
-   ```
-   [https://github.com](https://github.com/Macush/reaper-scripts/blob/main/Folder_Items_Cush.lua)](https://github.com/Macush/reaper-scripts/blob/main/Folder_Items_Cush.lua)
-   ```
-2. In REAPER, go to Extensions -> ReaPack -> Import a repository...
-3. Paste the URL and click OK.
-4. Go to Extensions -> ReaPack -> Synchronize packages.
-5. Find the script in your REAPER Actions List (?) under Folder Items Cush.
+1. **Extensions → ReaPack → Import repositories...**
+2. Add:
+
+```text
+https://github.com/Macush/reaper-scripts/raw/main/index.xml
+```
+
+3. Open **Browse packages...**
+4. Search for **CUSH Folder Items**
+5. Install and run the script from the REAPER Action List.
+
+### Requirements
+
+* REAPER 7+
+* ReaPack
+
+### Author
+
+Cush
+
+[GitHub Repository](https://github.com/Macush/reaper-scripts)
