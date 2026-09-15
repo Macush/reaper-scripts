@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<index version="1" name="CUSH REAPER Scripts">
+
+<category name="Cush">
+
+<reapack name="CUSH Folder Items" type="script" desc="Creates and synchronizes visual folder items in REAPER.">
+
+<version name="1.0.0" author="Cush">
+
+<source main="main">https://github.com/Macush/reaper-scripts/raw/main/Scripts/Folder_Items_Cush.lua</source>
+
+</version>
+
+</reapack>
+
+</category>
+
+</index>
