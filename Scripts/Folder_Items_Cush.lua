@@ -2,9 +2,8 @@
 -- @version 1.0.0
 -- @author Cush
 -- @about
---   Creates visual folder items based on the audio items inside REAPER folders.
---   Automatically syncs folder items and darkens child item colors.
--- @requires REAPER v7.0
+-- Creates visual folder items based on the audio items inside REAPER folders.
+-- Automatically syncs folder items and darkens child item colors.
 
 -- CUSH FOLDER ITEMS
 -- REAPER 7+
