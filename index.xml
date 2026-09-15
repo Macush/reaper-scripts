@@ -4,7 +4,7 @@
 
 <category name="Cush">
 
-<reapack name="CUSH Folder Items" type="script" desc="Creates and synchronizes visual folder items in REAPER.">
+<reapack name="Folder Items Cush" type="script" desc="">
 
 <version name="1.0.0" author="Cush">
 
