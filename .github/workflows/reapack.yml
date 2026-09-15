@@ -1,7 +1,7 @@
 ```yaml
 name: Release
 
-on:
+"on":
   push:
     branches:
       - main
@@ -12,7 +12,6 @@ permissions:
 jobs:
   reapack:
     runs-on: ubuntu-latest
-
     steps:
       - uses: actions/checkout@v4
 
