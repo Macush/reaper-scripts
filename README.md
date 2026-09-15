@@ -14,7 +14,8 @@ Automatically duplicates edits (cut, drag, copy) from a folder audio track down 
 ## Installation via ReaPack
 
 1. Copy this repository URL:
-   ```https://github.com](https://github.com/Macush/reaper-scripts/blob/main/Folder_Items_Cush.lua)
+   ```
+   https://github.com](https://github.com/Macush/reaper-scripts/blob/main/Folder_Items_Cush.lua)
    ```
 2. In REAPER, go to Extensions -> ReaPack -> Import a repository...
 3. Paste the URL and click OK.
