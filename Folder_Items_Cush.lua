@@ -1,3 +1,7 @@
+-- @description Folder Items Cush
+-- @version 1.0
+-- @author Macush
+
 -- CUSH FOLDER ITEMS
 -- REAPER 7+
 
